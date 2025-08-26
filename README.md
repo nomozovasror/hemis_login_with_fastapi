@@ -94,7 +94,7 @@ Open your browser and navigate to:
 
 ---
 
-## 🐳 Docker (Optional)
+## 🐳 Docker
 
 ### 1. Build the Docker compose
 
